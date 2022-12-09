@@ -116,7 +116,6 @@
 
 **nav.menu>a*4[href="menu"]{enlace$}**
 
-
 # Ejercicio 10
 ## Cuál es el código emmet para generar la siguiente estructura?
 ~~~
@@ -126,6 +125,7 @@
         <li class="item-3">Illum, reprehenderit minus ex soluta adipisci aperiam explicabo modi sapiente.</li>
         <li class="item-4">Nihil ratione voluptates iure cum eligendi dolores deleniti quos nostrum.</li>
 </ul>
+
 ~~~
 
-**ul.lista>li.item-$*4>lorem10**   
+**ul.lista>li.item-$**\***4>lorem10**
